@@ -1,32 +1,31 @@
 # General schedule
-# Pilot Test
+# Pilot Course 2024
 
 ## Course overview
-
-* Sun, July 9: Opening Ceremonies
-    * 8:30 am UTC
-    * 5:30 pm UTC
+January 22 - February 9, 2024 
     
 * Week 1
-    * Mon, July 10: Model Types
-    * Tue, July 11: Model Fitting
-    * Wed, July 12: Generalized Linear Models  
-    * Thu, July 13: Dimensionality Reduction
-    * Fri, July 14: Deep Learning
+    * Mon, January 22:
+    *    Opening Ceremonies & Student Orientation at 13:00 - 15:00 UTC 
+    *    Model Types 
+    * Tue, January 23: Model Fitting
+    * Wed, January 24: Generalized Linear Models  
+    * Thu, January 25: Dimensionality Reduction
+    * Fri, January 26: Deep Learning
      
 * Week 2
-    * Mon, July 17: Modeling Practice & Half Project Day (Projects Proposal)
-    * Tue, July 18: Linear Systems
-    * Wed, July 19: Biological Neuron Models
-    * Thu, July 20: Dynamic Networks
-    * Fri, July 21: Project day (Abstract Writing)
+    * Mon, January 29: Modeling Practice & Half Project Day (Projects Proposal)
+    * Tue, January 30: Linear Systems
+    * Wed, January 31: Biological Neuron Models
+    * Thu, February 1: Dynamic Networks
+    * Fri, February 2: Project day (Abstract Writing)
     
 * Week 3
-    * Mon, July 24: Bayesian Decisions
-    * Tue, July 25: Hidden Dynamics
-    * Wed, July 26: Optimal Control
-    * Thu, July 27: Reinforcement Learning
-    * Fri, July 28: Network Causality & Graduation
+    * Mon, February 5: Bayesian Decisions
+    * Tue, February 6: Hidden Dynamics
+    * Wed, February 7: Optimal Control
+    * Thu, February 8: Reinforcement Learning
+    * Fri, February 9: Network Causality & Graduation
 ----
 
 ## Daily coursework schedule
@@ -52,7 +51,7 @@ All days except W2D1, W2D5, and W3D5 will follow this schedule for course time:
 ### Project time
 In addition to course time, each day will have 3 hours of project time. Check the [time slot widget](https://neuromatchacademy.github.io/widgets/tz.html) to see when project time is scheduled for your slot.
 
-*Note: Slots 1, 3, and 4 **will not** have project time on W1D1.* 
+*Note: You will not have Projects Time of on W1D1, instead you will have the Opening Ceremonies & Student Orientatio from 13:00 - 15:00 UTC* 
 
 ### Schedule of specific days
 
@@ -81,7 +80,7 @@ During next available project time (which could be on the next day):
 #### W2D5: Project Day (Abstract Writing Day)
 *For more info on the components of this day, please see the daily guide for projects [here](https://compneuro.neuromatch.io/projects/docs/project_guidance.html#day-10-8h-friday-for-everyone)*
 
-**Slots 1/3/4:**
+**Slot 4:**
 
 During project time:
 
@@ -105,37 +104,13 @@ During coursework time:
 
 \* : Timing of this mentor meeting may need to vary based on mentor availability
 
-**Slots 2/5:**
-
-During coursework time:
-
-|    Time (Hour)   |    Component                          |
-|------------------|---------------------------------------|
-|    0:00-2:00\*   |    Abstract workshop                  |
-|    2:00-3:00     |    Big break                          |
-|    3:00-4:30     |    Individual abstract editing        |
-
-
-During project time:
-
-|    Time (Hour)   |    Component                          |
-|------------------|---------------------------------------|
-|    0:00-0:45\*, \**  |    Mentor meeting                  |
-|    0:45-1:45     |    Pod abstract swap                  |
-|    1:45-2:00     |    Break                              |
-|    2:00-3:00     |   Finalize abstract                   |
-
-\* : Note that this refers to the start of the projects time, not the coursework time like usual
-
-\** : Timing of this mentor meeting may need to vary based on mentor availability
-
 #### W3D5: Final Day of Course
 
-**Slots 1/2/4/5:**
+**Slots 4:**
 |    Time (Hour)   |    Lecture                               |
 |------------------|------------------------------------------|
-|   -2:00- -1:00\*  |    Project presentations (slots 1/4)  |
-|   -1:00--0:30     |    Break (slots 1/4)                  |
+|   -2:00- -1:00\*  |    Project presentations (slot 4)  |
+|   -1:00--0:30     |    Break (slot 4)                  |
 |   -0:30-0:00     |    Intro video & text                    |
 |    0:00-0:15      |    Pod Discussion I                      |
 |    0:15-1:45      |    Tutorials I                           |
@@ -143,43 +118,15 @@ During project time:
 |    2:45-4:15      |    Tutorials II                          |
 |    4:15-4:25      |    Pod Discussion II                     |
 |    4:25-4:45      |    Break                                 |
-|    4:45-5:15\**   |    Course Review & Feedback                     |
-|    5:15-6:15\**   |    Project presentations (slots 2/5)     | 
-|    6:15-6:30\**   |    Pod farewell                         |
-|    6:30-7:15\**   |    Closing Ceremony/Graduation           |
+|    4:45-5:15\**   |    Course Review & Feedback              |
+|    5:15-5:45\**   |    Pod farewell                         |
+|    6:00-7:00\**   |    Closing Ceremony/Graduation           |
 
 \* : This is the last hour of projects time for slots 1/4
 
 \** : Note that these events occur after the normal coursework time.
  
-Course Review & Feedback: We will have a post course survey for both students and TAs (will share the link in discord) - please fill it out during this time!
-
-Pod farewell: This is just a chance for your pod to say goodbye to each other. No structure imposed or requirements here!
-
-Closing Ceremony/Graduation: We will do this all together on crowdcast.
-
-
-**Slot 3:**
-|    Time (Hour)   |    Lecture                               |
-|------------------|------------------------------------------|
-|   -2:15- -1:15\*  |    Project presentations (slot 3)  |
-|   -1:15--0:30     |    Break (slots 3)                  |
-|   -0:30-0:00\*    |    Intro video & text                    |
-|    0:00-0:15      |    Pod Discussion I                      |
-|    0:15-1:45      |    Tutorials I                           |
-|    1:45-2:45      |    Big break                             |
-|    2:45-4:15      |    Tutorials II                          |
-|    4:15-4:25      |    Pod Discussion II                     |
-|    4:25-4:45      |    Break                                 |
-|    4:45-5:15\**   |    Course Review & Feedback              |
-|    5:15-5:30\**   |    Pod farewell                         |
-|    5:30-6:15\**   |    Closing Ceremony/Graduation           |
-
-\* : This is the last hour and a quarter of projects time for slot 3
-
-\** : Note that these events occur after the normal coursework time.
-
-Course Review & Feedback: We will have a post course survey for both students and TAs (will share the link in discord) - please fill it out during this time!
+Course Review & Feedback: We will have a post course survey for both students and TAs (will share the link in discord) - please fill it out during this time! Completing the post course survey is required to get your Certificate through the Portal. 
 
 Pod farewell: This is just a chance for your pod to say goodbye to each other. No structure imposed or requirements here!
 
